@@ -2,7 +2,7 @@
 <!-- ### Hi there it's Zee here 👋 -->
 
 :round_pushpin: - Living in :sweden:
-
+- :man_student: I’m soon to graduate as a **full stack** developer
 
 
 <!--
