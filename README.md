@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there it's Zee here 👋
+
+- I am a :maldives: national currently living in :sweden:
 
 <!--
 **Mo-Xiyad/Mo-Xiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
