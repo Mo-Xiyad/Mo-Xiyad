@@ -1,6 +1,5 @@
-<!-- https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif -->
-### <img src="https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif" width="50px"> Hi there, I'm [Zee]!
-### Hi there it's Zee here 👋
+### <img src="https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif" width="50px"> Hi there, I'm Zee!
+<!-- ### Hi there it's Zee here 👋 -->
 
 - Location :sweden:
 
