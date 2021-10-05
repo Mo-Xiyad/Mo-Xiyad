@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/9bK3VDWSdu1X8VGhlg/giphy.gif" width="50px"> Hi there, I'm Zee!
+### <img src="https://giphy.com/clips/studiosoriginals-reaction-emotion-sup-84CwF8bgL9mLf3VmAC" width="50px"> Hi there, I'm Zee!
 <!-- ### Hi there it's Zee here 👋 -->
 
 - Location :sweden:
