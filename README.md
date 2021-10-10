@@ -56,4 +56,16 @@
 ```
 -->
 ![bg](red)
+---
+theme: base-theme
+style: |
+  section {
+    background-color: #ccc;
+  }
+---
+
+![backgroundColor]<div>
+  <p>sadsdsdds</p>
+  </div>
+_backgroundColor: "#def"
 
