@@ -50,13 +50,13 @@ Here are some ideas to get you started:
 - <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 ---
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=&fontSize=90)
-
-<a href="https://github.com/Mo-Xiyad">
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=<a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/>
 </a>
 <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </a>
+&fontSize=90)
+
 
 
