@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 ## &#x1f4c8; GitHub Stats
-<div align="center">
+<div align="center" color="red">
 <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/>
 </a>
