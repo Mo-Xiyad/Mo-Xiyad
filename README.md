@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ### Find me on :crystal_ball:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/zee-xiyad/) 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=highcontrast" alt="Zee's GitHub stats"/>
+</p>
