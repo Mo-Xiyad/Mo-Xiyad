@@ -70,6 +70,8 @@ paginate: true
 _backgroundColor: black
 _color: white
 -->
-
+---
+_backgroundColor: black
+---
 Black background + White text
 
