@@ -31,15 +31,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zee92)
 
 <hr/>
-<div>
-  
+
+
+<a href="https://github.com/Mo-Xiyad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight" align="right"/>
+</a>
 <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </a>
-<a href="https://github.com/Mo-Xiyad">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight" align="right"/>
- </a>
-  </div>
 
 ---
 - <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
