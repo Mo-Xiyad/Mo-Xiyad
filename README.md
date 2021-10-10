@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,21,3)&height=200&section=header&text=there, I'm Zee!&fontSize=90&animation=twinkling" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=50,50,1,12)&height=200&section=header&text=there, I'm Zee!&fontSize=90&animation=twinkling" /> 
 
 
 
