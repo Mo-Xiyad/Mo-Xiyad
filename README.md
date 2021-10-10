@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" /> 
 <!-- 2, 0,100 -->
 
 
