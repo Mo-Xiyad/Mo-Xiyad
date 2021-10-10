@@ -7,7 +7,6 @@
 
 :round_pushpin: - Living in :sweden:
 - :man_student: I’m soon to graduate as a **full stack** developer
-<!-- ![](https://komarev.com/ghpvc/?username=Mo-Xiyad)     PROFILE VIEWS -->
 
 
 <!--
@@ -52,6 +51,7 @@ Here are some ideas to get you started:
 
 
 ## &#x1f4c8; GitHub Stats
+![](https://komarev.com/ghpvc/?username=Mo-Xiyad)   
 <div align="center" color="red">
 <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/>
