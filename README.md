@@ -7,7 +7,7 @@
 
 :round_pushpin: - Living in :sweden:
 - :man_student: I’m soon to graduate as a **full stack** developer
-![](https://komarev.com/ghpvc/?username=Mo-Xiyad)
+<!-- ![](https://komarev.com/ghpvc/?username=Mo-Xiyad)     PROFILE VIEWS -->
 
 
 <!--
