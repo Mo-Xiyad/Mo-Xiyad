@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/zee-xiyad/) 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=highcontrast" alt="Zee's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/>
