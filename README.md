@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight" align="right"/>
 </a>
 <a href="https://github.com/Mo-Xiyad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </a>
 
 ---
