@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <hr/>
 <div>
-<span align="center">
+<span align="center space-between" >
   <img src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </span>
 <span align="center">
