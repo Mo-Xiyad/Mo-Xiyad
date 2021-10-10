@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 ---
+
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/>
 </a>
