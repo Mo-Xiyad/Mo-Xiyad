@@ -1,13 +1,13 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  -->
 <img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=273c5c"/>
-
+![](https://komarev.com/ghpvc/?username=Mo-Xiyad)
 <!-- ### <img src="https://media.giphy.com/media/LP0fmgr4euu5cT2yWr/giphy.gif" width="50px"> there, I'm Zee! -->
 <!-- ### Hi there it's Zee here 👋 -->
 
 :round_pushpin: - Living in :sweden:
 - :man_student: I’m soon to graduate as a **full stack** developer
-- ![](https://komarev.com/ghpvc/?username=Mo-Xiyad)
+
 
 
 <!--
