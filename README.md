@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <span align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/>
 </span>
-<span align="right">
+<span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight" align="right"/>
  </span>
   </div>
