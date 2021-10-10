@@ -55,17 +55,17 @@
 @@ text in purple (and bold)@@ 
 ```
 -->
-![bg](red)
----
-theme: base-theme
-style: |
-  section {
-    background-color: #ccc;
-  }
+
+<!-- backgroundImage: "linear-gradient(to bottom, #67b8e3, #0288d1)" -->
+
+Gradient background
+
 ---
 
-![backgroundColor]<div>
-  <p>sadsdsdds</p>
-  </div>
-_backgroundColor: "#def"
+<!--
+_backgroundColor: black
+_color: white
+-->
+
+Black background + White text
 
