@@ -61,6 +61,10 @@
 Gradient background
 
 ---
+---
+theme: default
+paginate: true
+---
 
 <!--
 _backgroundColor: black
