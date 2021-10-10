@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2, 0,100)&height=200&section=header&text=there, I'm Zee!&fontSize=90&animation=twinkling" /> 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3, 0,100)&height=200&section=header&text=there, I'm Zee!&fontSize=90&animation=twinkling" /> 
+<!-- 2, 0,100 -->
 
 
 ### <img src="https://media.giphy.com/media/LP0fmgr4euu5cT2yWr/giphy.gif" width="50px"> there, I'm Zee!
