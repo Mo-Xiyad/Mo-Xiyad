@@ -2,8 +2,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  -->
 <img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=273c5c"/>
 
-<!-- ### <img src="https://media.giphy.com/media/LP0fmgr4euu5cT2yWr/giphy.gif" width="50px"> there, I'm Zee! -->
-<!-- ### Hi there it's Zee here 👋 -->
 
 :round_pushpin: - Living in :sweden:
 <!-- - :man_student: I’m soon to graduate as a **full stack** developer -->
@@ -26,8 +24,8 @@
   <image src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <image src="https://img.shields.io/badge/Express-f5f542?style=for-the-badge&logo=express&logoColor=black" />
-  <image src="https://img.shields.io/badge/TypeScript-5ab7ed?style=for-the-badge&logo=typeScript&logoColor=white" />
-  <image src="https://img.shields.io/badge/MongoDB-30853b?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <image src="https://img.shields.io/badge/TypeScript-2E72BD?style=for-the-badge&logo=typeScript&logoColor=white" />
+  <image src="https://img.shields.io/badge/MongoDB-0EA34B?style=for-the-badge&logo=MongoDB&logoColor=00284A" />
   
 - <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <image src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
