@@ -26,8 +26,8 @@
   <image src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <image src="https://img.shields.io/badge/Express-f5f542?style=for-the-badge&logo=express&logoColor=black" />
-  <image src="https://img.shields.io/badge/TypeScript-5ab7ed?style=for-the-badge&logo=typeScript&logoColor=white" />MongoDB
-  <image src="https://img.shields.io/badge/MongoDB-30853b?style=for-the-badge&logo=mongobd&logoColor=white" />
+  <image src="https://img.shields.io/badge/TypeScript-5ab7ed?style=for-the-badge&logo=typeScript&logoColor=white" />
+  <image src="https://img.shields.io/badge/MongoDB-30853b?style=for-the-badge&logo=mongobd&logoColor=gray" />
   
 - <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <image src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
