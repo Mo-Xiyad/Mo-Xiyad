@@ -1,6 +1,6 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  -->
-<img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=273c6d"/>
+<img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=4fe3dc"/> 273c5c
 
 
 :round_pushpin: - Living in :sweden:
