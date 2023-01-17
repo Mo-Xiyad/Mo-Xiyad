@@ -17,7 +17,9 @@
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
    <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+   
+   <image src="https://img.shields.io/badge/graphql-DD34A6?style=for-the-badge&logo=graphql&logoColor=white%22" />
+   
   <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
 - <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
