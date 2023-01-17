@@ -42,14 +42,13 @@
 
 <!--  TOp Lang-->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad)](https://github.com/mo-xiyad/github-readme-stats)
 <div> 
-  <a href="https://github.com/Mo-Xiyad">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad"/>
-  </a>
-<a href="https://github.com/Mo-Xiyad">
+ <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=radical" alt="Zee's GitHub stats"/>
 </a>
+  <a href="https://github.com/Mo-Xiyad">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=radical"/>
+  </a>
 </div>
 <!-- 
 ```diff
