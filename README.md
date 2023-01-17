@@ -1,8 +1,9 @@
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  -->
-<!-- <img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=4fe3dc"/> -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  
+<img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=4fe3dc"/>
 
-<image src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c)" />
+[![Linkedin Badge]<image src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c)" />
+
 :round_pushpin: - Living in :sweden:
 <!-- - :man_student: I’m soon to graduate as a **full stack** developer -->
 
@@ -42,7 +43,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--  TOp Lang-->
-
 <div> 
  <a href="https://github.com/Mo-Xiyad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=transparent" alt="Zee's GitHub stats"/>
@@ -51,13 +51,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=transparent"/>
   </a>
 </div>
-<!-- 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@ 
-```
--->
+
 
