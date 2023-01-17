@@ -29,12 +29,16 @@
   
 - <image src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white%22" />
   <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <image src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
   <image src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 - <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <image src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <image src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <image src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff" />
+  
 
 
 ## &#x1f4c8; GitHub Stats
