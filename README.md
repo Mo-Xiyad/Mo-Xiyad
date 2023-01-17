@@ -48,7 +48,7 @@
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&langs_count=5&theme=tokyonight"/> -->
 </a>
 <a href="https://github.com/Mo-Xiyad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad" alt="Zee's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[mo-xiyad]" alt="Zee's GitHub stats"/>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=tokyonight" alt="Zee's GitHub stats"/> -->
 </a>
 </div>
