@@ -1,6 +1,6 @@
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" />  -->
-<img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=4fe3dc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,0,100)&height=200&section=header&text=Hi there, I'm Zee!&fontSize=90&animation=twinkling&fontColor=273c5c" /> 
+<!-- <img src="https://capsule-render-espz24qae-kyechan99.vercel.app/api?type=waving&color=gradient&customColorList=31&text=Hi there, It's Zee here&height=200&animation=twinkling&fontColor=4fe3dc"/> -->
 
 
 :round_pushpin: - Living in :sweden:
@@ -17,8 +17,8 @@
    <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <image src="https://img.shields.io/badge/graphql-DD34A6?style=for-the-badge&logo=graphql&logoColor=white%22" /> 
    <image src="https://img.shields.io/badge/TypeScript-2E72BD?style=for-the-badge&logo=typeScript&logoColor=white" />
-   <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <image src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black%22" />
+   <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
 - <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <image src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
