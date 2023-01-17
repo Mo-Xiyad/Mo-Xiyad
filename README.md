@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-xiyad&show_icons=true&theme=radical" alt="Zee's GitHub stats"/>
 </a>
   <a href="https://github.com/Mo-Xiyad">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=transparent"/>
   </a>
 </div>
 <!-- 
