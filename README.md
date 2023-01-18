@@ -47,11 +47,12 @@
 
 <!--  TOp Lang-->
 <div> 
+   https://github-readme-stats-pbere0mav-mo-xiyad.vercel.app
  <a href="https://github.com/Mo-Xiyad">
-  <img align="center" src="https://github-readme-stats-zee.vercel.app/api?username=mo-xiyad&show_icons=true&theme=radical" alt="Zee's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats-pbere0mav-mo-xiyad.vercel.app/api?username=mo-xiyad&show_icons=true&theme=radical" alt="Zee's GitHub stats"/>
 </a> 
   <a href="https://github.com/Mo-Xiyad">
-    <img align="center" src="https://github-readme-stats-zee.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=radical"/>
+    <img align="center" src="https://github-readme-stats-pbere0mav-mo-xiyad.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=radical"/>
   </a>
 </div>
 
