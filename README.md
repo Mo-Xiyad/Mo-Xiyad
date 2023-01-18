@@ -48,10 +48,10 @@
 <!--  TOp Lang-->
 <div> 
  <a href="https://github.com/Mo-Xiyad">
-  <img align="center" src="https://github-readme-stats-zee-mo-xiyad.vercel.app/app?username=Mo-Xiyad&show_icons=true&theme=radical" alt="Zee's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats-zee.vercel.app/api?username=mo-xiyad&show_icons=true&theme=transparent" alt="Zee's GitHub stats"/>
 </a> 
   <a href="https://github.com/Mo-Xiyad">
-    <img align="center" src="https://github-readme-stats-zee-mo-xiyad.vercel.app/app/top-langs/?username=Mo-Xiyad&layout=compact&theme=radical"/>
+    <img align="center" src="https://github-readme-stats-zee.vercel.app/api/top-langs/?username=mo-xiyad&layout=compact&theme=transparent"/>
   </a>
 </div>
 
