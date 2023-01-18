@@ -46,7 +46,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--  TOp Lang-->
-   ![Zee's GitHub stats](https://github-readme-stats-pbere0mav-mo-xiyad.vercel.app/api?username=Mo-Xiyad&show_icons=true&theme=radical)
+   [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Mo-Xiyad&repo=dev.to)](https://github.com/Mo-Xiyad/dev.to)
 <div> 
 
  <a href="https://github.com/Mo-Xiyad">
