@@ -43,6 +43,9 @@
 
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Mo-Xiyad)   
+<a href="https://github.com/Mo-Xiyad/Mo-Xiyad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--  TOp Lang-->
