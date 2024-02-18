@@ -60,7 +60,8 @@
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&hide=java,html,css,scss&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--  TOp Lang-->
 <!-- <div> 
