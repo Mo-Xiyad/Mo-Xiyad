@@ -47,20 +47,20 @@
 
 
 <!-- THIS WORKS -->
- <a href="https://github.com/Mo-Xiyad/Mo-Xiyad">
+<!-- <a href="https://github.com/Mo-Xiyad/Mo-Xiyad">
 <div align="center">
 <a href="https://github.com/Mo-Xiyad/Mo-Xiyad">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mo-Xiyad&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zee's GitHub Stats" />
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mo-Xiyad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="Zee's GitHub Stats" />
 </a>
-<!-- </div>
+ </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>   -->
 
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Xiyad&layout=compact&theme=github_dark&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--  TOp Lang-->
 <!-- <div> 
